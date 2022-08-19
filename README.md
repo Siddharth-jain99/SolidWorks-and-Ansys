@@ -1,6 +1,6 @@
 # SolidWorks-and-Ansys
 
-Some of the parts and assemblies I have designed in SolidWorks are shown below.
+# Some of the parts and assemblies I have designed in SolidWorks are shown below.
 
 - Dog Clutch Mechanism
 
@@ -15,7 +15,7 @@ Some of the parts and assemblies I have designed in SolidWorks are shown below.
 ![image](https://user-images.githubusercontent.com/45391284/185546346-0360a13a-14f3-4c7f-9eeb-3f870b30b08e.png)
 
 
-FEA done on various parts and assemblies
+# FEA done on various parts and assemblies
 
 - Modal Analysis
 
