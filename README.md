@@ -8,7 +8,7 @@
 
 - Rendering and Animation
 
-![1662323312831](https://user-images.githubusercontent.com/45391284/188332244-70d09208-f544-4c1b-b1f2-9f53ed95ce3b.gif width = '250')
+![1662323312831](https://user-images.githubusercontent.com/45391284/188332244-70d09208-f544-4c1b-b1f2-9f53ed95ce3b.gif)
 
 - Engine Mount
 
