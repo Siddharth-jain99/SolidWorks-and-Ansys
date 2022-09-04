@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/45391284/185546223-4f2e4fd3-05a4-4b81-a762-afd58d920e3c.png)
 
+- Rendering and Animation
+
+![1662323312831](https://user-images.githubusercontent.com/45391284/188332244-70d09208-f544-4c1b-b1f2-9f53ed95ce3b.gif)
+
 - Engine Mount
 
 ![image](https://user-images.githubusercontent.com/45391284/185546271-b0cf197f-457a-4012-b198-ecbb3ec8e81c.png)
